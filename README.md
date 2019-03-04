@@ -1,6 +1,6 @@
 # 项目说明
 
-此项目为之前发布的[《Java 最常见 200+ 面试题全解析》](http://gitbook.cn/m/mazi/activity/5c6cf6044bb44360f3370255?sceneId=b6b59d203c9511e9bdcd13fc37d0ce9a&utm_source=chatinvitecard)之外的题目的补充与开展。
+此项目为之前发布的[《Java 最常见 200+ 面试题全解析》](http://gitbook.cn/m/mazi/activity/5c6cf6044bb44360f3370255?sceneId=b6b59d203c9511e9bdcd13fc37d0ce9a&utm_source=chatinvitecard)的题目的补充与开展。
 
 
 
