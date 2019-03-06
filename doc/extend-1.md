@@ -1,4 +1,4 @@
-# Java(200+)面试题补充 ThreadLocal 模块
+# Java 200+ 面试题补充 ThreadLocal 模块
 
 ![](http://icdn.apigo.cn/blog/threadlocal-02.png)
 
@@ -80,19 +80,23 @@ public static Session getCurrentSession(){
 
 查看所有面试题：[《Java 最常见 200+ 面试题》](https://juejin.im/post/5c788d986fb9a049f154e479)
 
-#### 参考
+#### 参考资料
 
 https://www.jianshu.com/p/a1cd61fa22da
 
 https://www.jianshu.com/p/98b68c97df9b
 
+
+
 **扫描下方二维码，关注更多动态：**
 
 ![](http://icdn.apigo.cn/myinfo/gognzhonghao.jpg)
 
-相关文章推荐：
+往期文章推荐：
 
 [《Java 最常见的 200+ 面试题》](https://juejin.im/post/5c788d986fb9a049f154e479)
+
+[《你真的懂 == 和 equals 的区别吗？》](https://juejin.im/post/5c7ddcd06fb9a04a06059bea)
 
 [《程序员精美简历Top榜—面试必备》](https://juejin.im/post/5c650ac7e51d45783211fd5f)
 
