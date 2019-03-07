@@ -13,9 +13,9 @@
 
 ## 二、扩充题目
 
-[扩充-ThreadLocal模块](https://github.com/vipstone/interview-extend/blob/master/doc/extend-1.md)
+[扩充① ThreadLocal模块](https://github.com/vipstone/interview-extend/blob/master/doc/extend-1.md)
 
-扩充题目2
+[扩充② Netty模块](https://github.com/vipstone/interview-extend/blob/master/doc/extend-2.md)
 
 扩充题目3
 
