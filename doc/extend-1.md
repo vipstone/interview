@@ -2,9 +2,9 @@
 
 ![](http://icdn.apigo.cn/blog/threadlocal-02.png)
 
-本文是前文[《Java 最常见的 200+ 面试题》](https://juejin.im/post/5c788d986fb9a049f154e479)的第一个补充模块。
-
 > 让我们每天都有进步，老王带你打造最全的 Java 面试清单，认真把一件事做到极致。
+
+本文是前文[《Java 最常见的 200+ 面试题》](https://juejin.im/post/5c788d986fb9a049f154e479)的第一个补充模块。
 
 #### 1.ThreadLocal 是什么？
 
