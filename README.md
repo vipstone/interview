@@ -17,7 +17,7 @@
 
 [扩充② Netty模块](https://github.com/vipstone/interview-extend/blob/master/doc/extend-2.md)
 
-扩充题目3
+[扩充③ Dubbo模块](https://github.com/vipstone/interview-extend/blob/master/doc/extend-3.md)
 
 # 三、计划补充类型
 

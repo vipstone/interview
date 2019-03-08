@@ -45,7 +45,8 @@ Netty 的零拷贝主要包含三个方面：
 
 #### 7.Netty 和 Tomcat 的区别？
 
-Netty 和 Tomcat 最大的区别就在于通信协议，Tomcat 是基于 http 协议的，他的实质是一个基于 http 协议的web容器，但是 Netty 不一样，他能通过编程自定义各种协议，因为 Netty 能够自己编码/解码字节流，完成类似Redis 访问的功能，这就是 Netty 和 Tomcat 最大的区别。
+- 作用不同：Tomcat 是 Servlet 容器，可以视为 Web 服务器，而 Netty 是异步事件驱动的网络应用程序框架和工具用于简化网络编程，例如TCP和UDP套接字服务器。
+- 协议不同：Tomcat 是基于 http 协议的 Web 服务器，而 Netty 能通过编程自定义各种协议，因为 Netty 本身自己能编码/解码字节流，所有 Netty 可以实现，HTTP 服务器、FTP 服务器、UDP 服务器、RPC 服务器、WebSocket 服务器、Redis 的 Proxy 服务器、MySQL 的 Proxy 服务器等等。
 
 #### 8.Netty 中有那种重要组件？
 
