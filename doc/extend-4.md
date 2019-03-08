@@ -34,8 +34,6 @@
 
 - 发现一个页面打开特别慢，要怎么处理
 
-### Dobbo
 
-http://youzhixueyuan.com/dubbo-interview-question-answers.html
 
 ### 算法
