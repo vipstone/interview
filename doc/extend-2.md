@@ -2,7 +2,7 @@
 
 > 让我们每天都能看到自己的进步。老王带你打造最全的 Java 面试清单，认真把一件事做到最好。
 
-本文是前文[《Java 最常见的 200+ 面试题》](https://juejin.im/post/5c788d986fb9a049f154e479)的第二个补充模块，第一模块为：[《Java 200+ 面试题补充 ThreadLocal 模块》](https://juejin.im/post/5c805cb9f265da2d9e177f6d)。
+本文是前文[《Java 最常见的 200+ 面试题》](https://blog.csdn.net/sufu1065/article/details/88051083)的第二个补充模块，第一模块为：[《Java 200+ 面试题补充 ThreadLocal 模块》](https://juejin.im/post/5c805cb9f265da2d9e177f6d)。
 
 #### 1.Netty 是什么？
 
@@ -74,9 +74,11 @@ Netty 默认是 CPU 处理器数的两倍，bind 完之后启动。
 
 #### 最后
 
-查看所有面试题目：[《Java 最常见的 200+ 面试题》](https://juejin.im/post/5c788d986fb9a049f154e479)
+- 如果大家想更深入的了解 Netty，推荐一本很不错的掘金小册给大家（扫描二维码八折优惠）。
 
+![netty小册](http://icdn.apigo.cn/expand/smallbook-netty-small.png)
 
+- 查看全部面试题目：[《Java 最常见的 200+ 面试题》](https://blog.csdn.net/sufu1065/article/details/88051083)
 
 #### 参考文档
 
@@ -89,3 +91,16 @@ https://blog.csdn.net/thinking_fioa/article/details/80588138
 https://www.jianshu.com/p/a199ca28e80d
 
 https://blog.csdn.net/linuu/article/details/51385682
+
+#### 往期文章推荐
+
+[Java 最常见的 200+ 面试题](https://blog.csdn.net/sufu1065/article/details/88051083)
+
+[Java 200+ 面试题补充 ThreadLocal 模块](https://juejin.im/post/5c805cb9f265da2d9e177f6d)
+
+[你真的懂 == 和 equals 的区别吗？](https://juejin.im/post/5c7ddcd06fb9a04a06059bea)
+
+[程序员精美简历Top榜—面试必备](https://juejin.im/post/5c650ac7e51d45783211fd5f)
+
+[程序员专属精美简历合集——第二弹](https://juejin.im/post/5c7f227f51882562851b72df)https://juejin.im/post/5c650ac7e51d45783211fd5f)
+
