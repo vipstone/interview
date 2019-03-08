@@ -102,5 +102,5 @@ https://blog.csdn.net/linuu/article/details/51385682
 
 [程序员精美简历Top榜—面试必备](https://juejin.im/post/5c650ac7e51d45783211fd5f)
 
-[程序员专属精美简历合集——第二弹](https://juejin.im/post/5c7f227f51882562851b72df)https://juejin.im/post/5c650ac7e51d45783211fd5f)
+[程序员专属精美简历合集——第二弹](https://juejin.im/post/5c7f227f51882562851b72df)
 
