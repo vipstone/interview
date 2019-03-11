@@ -17,7 +17,9 @@
 
 [扩充② Netty模块](https://github.com/vipstone/interview-extend/blob/master/doc/netty-2.md)
 
-扩充③ Dubbo模块
+[扩充③ Dubbo模块](https://github.com/vipstone/interview-extend/blob/master/doc/dubbo-3.md)
+
+......
 
 # 三、计划补充类型
 
