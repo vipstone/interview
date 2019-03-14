@@ -150,14 +150,10 @@ Spring Cloud 是基于 Http 协议 Rest 接口调用远程过程的通信，相�
 
 http://youzhixueyuan.com/dubbo-interview-question-answers.html
 
-
+![公众号二维码](http://icdn.apigo.cn/wechat/wechat-desc-201903.png)
 
 **近期热文推荐**
 
 [Java 最常见的 200+ 面试题](https://blog.csdn.net/sufu1065/article/details/88051083)
-
-[你真的懂 == 和 equals 的区别吗？](https://juejin.im/post/5c7ddcd06fb9a04a06059bea)
-
-[程序员精美简历Top榜—面试必备](https://juejin.im/post/5c650ac7e51d45783211fd5f)
 
 [程序员专属精美简历合集—第二弹](https://juejin.im/post/5c7f227f51882562851b72df)

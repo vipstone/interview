@@ -93,6 +93,8 @@ https://www.jianshu.com/p/a199ca28e80d
 
 https://blog.csdn.net/linuu/article/details/51385682
 
+![公众号二维码](http://icdn.apigo.cn/wechat/wechat-desc-201903.png)
+
 #### 往期文章推荐
 
 [Java 最常见的 200+ 面试题](https://blog.csdn.net/sufu1065/article/details/88051083)
