@@ -1,4 +1,4 @@
-专注 Java 面试题分享，联合阿里 P7 专家（书*）共同精心打造，持续更新，欢迎投稿（新建 ISsues 投递，一经采纳，提供 50 元奖励）。
+专注 Java 面试题分享，联合沉默的二哥共同精心打造，持续更新，欢迎投稿（新建 ISsues 投递，一经采纳，提供 50 元奖励）。
 
 <p align="center">
 <a href="https://github.com/vipstone/interview" target="_blank">
