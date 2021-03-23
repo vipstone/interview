@@ -1,4 +1,4 @@
-专注 Java 面试题分享，联合沉默的二哥共同精心打造，持续更新，欢迎投稿（新建 ISsues 投递，一经采纳，提供 50 元奖励）。
+专注 Java 面试题分享，联合沉默的二哥共同精心打造，持续更新，欢迎投稿。
 
 <p align="center">
 <a href="https://github.com/vipstone/interview" target="_blank">
@@ -13,39 +13,70 @@
 </p>
 
 
+## 初心
+
+在本篇文章开始之前，我想先来回答一个问题：我为什么要写这样一篇关于面试的文章？原因有三个：第一，我想为每一个为梦想时刻准备着的“有心人”，尽一份自己的力量，提供一份高度精华的 java 面试清单；第二，目前市面上的面试题不是答案不准确就是内容覆盖面太窄，所以提供一份经典而又准确的面试题是非常有必要的；第三，本文会对部分面试题提供详细解读和代码案例，让读者知其然并知其所以然，从而学到更多的知识。
+
+或许这份面试题还不足以囊括所有 java 问题，但有了它，我相信你一定不会“败”的很惨，因为有了它，足以应对目前市面上绝大部分的 java 面试了，因为这篇文章不论是从深度还是广度上来讲，都已经囊括了非常多的知识点了。
+
+凡事预则立，不预则废。能读到这里的人，我相信都是这个世界上的“有心人”，还是那句老话：上天不负有心人！我相信你的每一步努力，都会收获意想不到的回报。
+
+## 适宜阅读人群
+
+- 准备跳槽的初/中/高级 Java 程序员
+- 想要查漏补缺的人
+- 想要不断完善和扩充自己 Java 技术栈的人
+- Java 面试官
+
+## 阅读建议
+
+本文会按技能模块划分文章段落，每个模块里的内容，从易到难依次进行排序，各模块之间不存在互相关联的关系，读者可选择文章顺序阅读或者跳跃式阅读。
+
+## 正文
+
+本文分为十九个模块，分别是： **Java 基础、容器、多线程、反射、对象拷贝、Java Web 模块、异常、网络、设计模式、Spring/Spring MVC、Spring Boot/Spring Cloud、Hibernate、Mybatis、RabbitMQ、Kafka、Zookeeper、MySql、Redis、JVM** ，如下图所示：
+
+![](http://icdn.apigo.cn/gitchat/java-intervier-gitchat-path.png)
+
+共包含 208 道面试题，本文的宗旨是为读者朋友们整理一份详实而又权威的面试清单，下面一起进入主题吧。
+
 ## 目录
 
-- Java  面试题
-  - 基础
-    - Java 性能优化的 50 个细节
-  - 容器
-  - 多线程
-  - 设计模式
-  - Java 虚拟机（JVM）
-    - [垃圾回收算法详解](https://mp.weixin.qq.com/s/W6kW3Dsu1_Nry9p90ySJWg)
-  - 常用框架
-    - Spring
-    - MyBatis
-    - Hibernate
-  - 数据库
-    - [Redis 最全面试题整理](https://mp.weixin.qq.com/s/aARg4Oftin6uYewAWGCsww)
-    - MySQL
-      - [MySQL 优化](https://mp.weixin.qq.com/s/vVpe8kRqPqne4wKEPO-Tng)
-  - 算法
-- 简历
-  - 漂亮的简历模板下载
-  - [写简历的十大误区](https://mp.weixin.qq.com/s?__biz=MzU1NTkwODE4Mw==&mid=2247483930&idx=1&sn=13a2609e2fc3bfd95c7992eab7937964&chksm=fbcc6f22ccbbe634ad1de5a110063c5482f6e8a4f873c951958a79113571bf974c1c7f929344&token=594798794&lang=zh_CN#rd)
-- 面经
-  - [阿里面试，我挂在了第四轮](https://mp.weixin.qq.com/s/dYzc-ABwgWcv85oEkKjDRg)
-  - ...
-- 必备书单
-  - Java 基础书单推荐
-  - Java 常用框架书籍推荐
-  - 数据库方面书籍推荐
-  - 消息队列数据推荐
-- 职业发展
-  - 选技术还是选管理
-  - ...
+Java 基础部分面试题
+
+容器部分面试题
+
+多线程部分面试题
+
+反射部分面试题
+
+对象拷贝部分面试题
+
+Java Web 模块部分面试题
+
+异常部分面试题网络
+
+设计模式部分面试题
+
+Spring/Spring MVC部分面试题
+
+Spring Boot/Spring Cloud部分面试题
+
+Hibernate部分面试题
+
+Mybatis部分面试题
+
+RabbitMQ部分面试题
+
+Kafka部分面试题
+
+Zookeeper部分面试题
+
+MySql部分面试题
+
+Redis部分面试题
+
+JVM部分面试题
 
 ## 介绍
 
@@ -64,10 +95,8 @@
 
 **投稿方式**：只需要在本项目下提交 ISsues 进行投稿，为了鼓励大家的踊跃参加，您提交的投稿一经采纳，我们会奖励给投稿人 50 元的购书基金，直接发放现金到您的微信。
 
-### 公众号
+### 特别说明
 
-关注公众号，每天推送 Java 干货内容和 Java 经典面试题。
+![img](https://cdn.nlark.com/yuque/0/2021/png/92791/1616464939377-8f4f86c6-ee9c-4f15-91ce-665f7a82c714.png)
 
-**免费领取 Java 学习资料**：公众号后台回复关键字 “**666**”，无套路免费领取。 
 
-![我的公众号](http://icdn.apigo.cn/logo/javacn666-8.jpg)
