@@ -1,4 +1,4 @@
-专注 Java 面试题分享，联合沉默王二（二哥）共同精心打造，持续更新，欢迎投稿。
+专注 Java 面试题分享，由「**Java 中文社群**」公号作者老王和「**沉默王二**」公号作者共同倾心打造，持续更新。
 
 <p align="center">
 <a href="https://github.com/vipstone/interview" target="_blank">
